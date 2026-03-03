@@ -28,10 +28,9 @@ I'm focused on:
 
 ### ⚡ Fun Facts
 
-- 🍜 Anime is a personality trait at this point
+- ☕ Genuinely addicted to coffee, not sorry
+- 🏋️ Gym bro 
 - 💻 CS student
--  Bluuuuuuuue 
-
 ---
 
 > *"Still learning, still building."*
