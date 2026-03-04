@@ -12,7 +12,7 @@ I'm focused on:
 
 ### 🔨 What I'm building
 
-- **STRIKE** — A football platform for tracking local matches, player stats, XP missions, and live match recording. *(— in progress)*
+-  *(— in progress)*
 
 ---
 
