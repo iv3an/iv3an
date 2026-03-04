@@ -30,7 +30,7 @@ I'm focused on:
 
 - ☕ Genuinely addicted to coffee, not sorry
 - 🏋️ Gym bro 
-- 💻 CS student
+- 💻 fedora btw
 ---
 
 > *"Still learning, still building."*
