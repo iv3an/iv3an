@@ -1,6 +1,6 @@
 # Hi there, I'm Iwan 👋
 
-I'm a CS student interested in cybersecurity, networking,development. I like building real things while learning — and breaking stuff along the way ofc .
+I'm a CS student interested in cybersecurity, networking,development. I like building real things while learning .
 
 I'm focused on:
 - 🛡️ Blue team security & threat detection
