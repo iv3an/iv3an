@@ -8,11 +8,6 @@ I'm focused on:
 - 🐍 Python scripting & automation
 - ⚡ Backend development with python
 
----
-
-### 🔨 What I'm building
-
--  *(— in progress)*
 
 ---
 
@@ -28,9 +23,9 @@ I'm focused on:
 
 ### ⚡ Fun Facts
 
-- ☕ Genuinely addicted to coffee, not sorry
+- ☕ Genuinely addicted to coffee
 - 🏋️ Gym bro 
-- 💻 fedora btw
+- 💻 arch btw
 ---
 
 > *"Still learning, still building."*
