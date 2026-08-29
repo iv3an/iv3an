@@ -28,4 +28,4 @@ I'm focused on:
 - 💻 arch btw
 ---
 
-> *"Still learning, still building."*
+> *"learning"*
