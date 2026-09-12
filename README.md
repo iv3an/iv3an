@@ -3,7 +3,7 @@
 I'm a CS student interested in cybersecurity, networking,development. I like building real things while learning .
 
 I'm focused on:
-- 🛡️ Blue team security & threat detection
+- 🛡️ Blue team security 
 - 🌐 Networking 
 - 🐍 Python scripting & automation
 - ⚡ Backend development with python
