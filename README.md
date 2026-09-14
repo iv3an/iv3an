@@ -1,31 +1,42 @@
-# Hi there, I'm Iwan 👋
+# Hey, I'm Iwan 👋
 
-I'm a CS student interested in cybersecurity, networking,development. I like building real things while learning .
+Computer Science student interested in **cybersecurity, networking, and software development**.
 
-I'm focused on:
-- 🛡️ Blue team security 
-- 🌐 Networking 
-- 🐍 Python scripting & automation
-- ⚡ Backend development with python
-
+Currently focused on **blue team security**, improving my programming skills, and learning through hands-on labs.
 
 ---
 
-### 🧠 What I know
+### 🛡️ Cybersecurity
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 
-### ⚡ Fun Facts
+### 💻 Tech
 
-- ☕ Genuinely addicted to coffee
-- 🏋️ Gym bro 
-- 💻 arch btw
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ---
 
-> *"learning"*
+### 🎯 Currently Learning
+
+- 🛡️ Blue Team & SOC Fundamentals
+- 🌐 Networking
+- 🐍 Python Automation
+- 🔐 CompTIA Security+
+
+---
+
+### 🚀 Projects
+
+<!-- Projects coming soon -->
+
+---
+
+### ⚡ Outside of Tech
+
+☕ Coffee &nbsp; • &nbsp; 🏋️ Gym &nbsp; • &nbsp; 🐧 Linux
