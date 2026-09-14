@@ -11,7 +11,7 @@ I'm currently building my technical foundation with a focus on **blue team secur
 
 ## Objective
 
-My goal is to develop the technical skills and hands-on experience needed for a career in **cybersecurity and security operations**.
+My goal is to develop the technical skills and hands on experience needed for a career in **cybersecurity and security operations**.
 
 I'm especially interested in **SOC analysis, threat detection, network security, SIEM, and security automation**.
 
@@ -23,7 +23,7 @@ I'm especially interested in **SOC analysis, threat detection, network security,
 |---|---|
 | **Programming** | Python, C |
 | **Systems** | Linux, Windows |
-| **Networking** | TCP/IP, DNS, DHCP, HTTP/HTTPS |
+| **Networking** | TCP/IP, DNS, DHCP, HTTP/HTTPS...|
 | **Security** | Blue Team Fundamentals, Network Security, Log Analysis |
 | **Development** | Git, GitHub, FastAPI |
 
@@ -49,7 +49,6 @@ I'm especially interested in **SOC analysis, threat detection, network security,
 
 ## Currently Learning
 
-- CompTIA Security+
 - Blue Team & SOC Fundamentals
 - Networking & Network Security
 - Python Security Automation
