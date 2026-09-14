@@ -1,42 +1,71 @@
-# Hey, I'm Iwan 👋
+# Hello, I'm Iwan
 
-Computer Science student interested in **cybersecurity, networking, and software development**.
+I'm a Computer Science student at the **University of South Florida** with an interest in cybersecurity, networking, and software development.
 
-Currently focused on **blue team security**, improving my programming skills, and learning through hands-on labs.
-
----
-
-### 🛡️ Cybersecurity
-
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+I'm currently focused on developing the skills needed for **blue team security and security analyst roles**, while strengthening my programming and networking foundations.
 
 ---
 
-### 💻 Tech
+## Objective
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+My goal is to build a strong foundation in cybersecurity through programming, networking, security labs, and personal projects.
+
+I'm especially interested in **SOC operations, threat detection, network security, SIEM, and security automation**.
 
 ---
 
-### 🎯 Currently Learning
+## Skills
 
-- 🛡️ Blue Team & SOC Fundamentals
-- 🌐 Networking
-- 🐍 Python Automation
-- 🔐 CompTIA Security+
-
----
-
-### 🚀 Projects
-
-<!-- Projects coming soon -->
+| Area | Currently Working With |
+|---|---|
+| Programming | Python, C |
+| Systems | Linux, Windows |
+| Networking | TCP/IP, DNS, DHCP, HTTP/HTTPS |
+| Security | Blue Team Fundamentals, Log Analysis, Network Security |
+| Development | Git, GitHub, FastAPI |
 
 ---
 
-### ⚡ Outside of Tech
+## Tools & Technologies
 
-☕ Coffee &nbsp; • &nbsp; 🏋️ Gym &nbsp; • &nbsp; 🐧 Linux
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="38" title="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="38" title="FastAPI"/>
+</p>
+
+---
+
+## Certifications
+
+**CompTIA Security+** — In Progress
+
+---
+
+## Currently Learning
+
+- Blue Team & SOC Fundamentals
+- CompTIA Security+
+- Networking & Network Security
+- Python for Security Automation
+- SIEM & Log Analysis
+
+---
+
+## Projects
+
+<!-- Projects will be added here as I build them. -->
+
+---
+
+## Connect
+
+[LinkedIn](YOUR-LINKEDIN-LINK)
