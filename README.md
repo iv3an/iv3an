@@ -5,11 +5,8 @@ I'm a Computer Science student at the **University of South Florida** interested
 I'm currently building my technical foundation with a focus on **blue team security, security operations, networking, and Python automation**.
 
 <a href="https://www.linkedin.com/in/iwan-outmani/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/iwan-outmani/">LinkedIn</a>
-
 ---
 
 ## Objective
