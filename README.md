@@ -64,7 +64,8 @@ I'm especially interested in **SOC analysis, threat detection, network security,
 
 ## Projects
 
-- [🐟 FishMail](https://github.com/iv3an/pfish) — A Python CLI project for learning phishing email analysis. Currently in development.
+* [🔐 File Integrity Checker](https://github.com/iv3an/File-Integrity-Checker) — A Python CLI tool that detects file modifications using SHA-256 and MD5 hashing.
+* [🐟 FishMail](https://github.com/iv3an/pfish) — A Python CLI project for learning phishing email analysis. Currently in development.
 
 
 
