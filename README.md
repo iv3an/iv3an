@@ -64,5 +64,7 @@ I'm especially interested in **SOC analysis, threat detection, network security,
 
 ## Projects
 
-<!-- Projects will go here -->
+- [🐟 FishMail](https://github.com/iv3an/pfish) — A Python CLI project for learning phishing email analysis. Currently in development.
+
+
 
