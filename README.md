@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the **University of South Florida** interested in cybersecurity, networking, and software development.
 
-I'm currently building my technical foundation with a focus on **blue team security, security operations, networking, and Python automation**.
+I’m currently serving as Treasurer for the Society of Competitive Programmers at USF and also studying for the CompTIA Security+ certification.
 
 <a href="https://www.linkedin.com/in/iwan-outmani/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
@@ -12,8 +12,6 @@ I'm currently building my technical foundation with a focus on **blue team secur
 ## Objective
 
 My goal is to develop the technical skills and hands on experience needed for a career in **cybersecurity and security operations**.
-
-I'm especially interested in **SOC analysis, threat detection, network security, SIEM, and security automation**.
 
 ---
 
