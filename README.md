@@ -60,11 +60,5 @@ My goal is to develop the technical skills and hands on experience needed for a 
 
 ---
 
-## Projects
-
-* [🔐 File Integrity Checker](https://github.com/iv3an/check_file_integrity) — A Python CLI tool that detects file modifications using SHA-256 and MD5 hashing.
-* [🖥️ Proxmox Security server ](https://github.com/iv3an/home_server) — A Proxmox-based homelab for learning Linux administration, virtualization, networking, Active Directory, SIEM, and blue team security 
-* [🐟 FishMail](https://github.com/iv3an/pfish) — A Python CLI project for learning phishing email analysis. Currently in development.
-
 
 
