@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the **University of South Florida** interested in cybersecurity, networking, and software development.
 
-I’m currently serving as Treasurer for the Society of Competitive Programmers at USF and also studying for the CompTIA Security+ certification.
+
 
 <a href="https://www.linkedin.com/in/iwan-outmani/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
