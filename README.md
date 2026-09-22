@@ -2,8 +2,6 @@
 
 I'm a Computer Science student at the **University of South Florida** interested in cybersecurity, networking, and software development.
 
-
-
 <a href="https://www.linkedin.com/in/iwan-outmani/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" />
 </a>
